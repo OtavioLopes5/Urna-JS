@@ -1,7 +1,5 @@
 # Urna-JS
 
-# Descrição: 
-
 Pensada e criada como um simulador da urna para eleições brasileira, com as mesmas caracteristicas e funções da real. Criada em HTML, CSS e principalmente em JavaScript.
 
 Para votar nulo, simplesmente aperte no botão BRANCO e em seguida aperte o botão CONFIRMA.
