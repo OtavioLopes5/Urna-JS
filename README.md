@@ -31,13 +31,19 @@ Partido: Tofaz Tan
 - 1
 
 Nome: Otavio Lopes
+
 Número: 75
+
 Partido: Web Developer
+
 Vice: Lucilene Lopes
 
 - 2
 
 Nome: Reginaldo Lopes
+
 Número: 84
-Partido: Rlf
+
+Partido: RLF
+
 Vice: Tata Barra
